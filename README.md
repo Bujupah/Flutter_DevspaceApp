@@ -1,7 +1,9 @@
-# Devspace Mobile Application
+## Devspace Mobile Application
 
-A new Flutter project for The Devspace Club,
+<p><img src="assets/devspace.png" width="50px" height="50px"/>
+A new Flutter project for The Devspace Club,</p>
 
+  
 ## Getting Started
 
 This project is a starting point for a Flutter application.
