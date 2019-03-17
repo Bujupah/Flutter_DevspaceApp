@@ -1,6 +1,6 @@
-# sample
+# Devspace Mobile Application
 
-A new Flutter project.
+A new Flutter project for The Devspace Club,
 
 ## Getting Started
 
