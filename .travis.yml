@@ -9,11 +9,12 @@ addons:
     packages:
       - libstdc++6
       - fonts-droid
+      - lib32stdc++6
 before_script:
   - git clone https://github.com/flutter/flutter.git -b beta
   - ./flutter/bin/flutter doctor
 script:
-  - ./flutter/bin/flutter test
+  - ./flutter/bin/flutter main
 cache:
   directories:
     - $HOME/.pub-cache
